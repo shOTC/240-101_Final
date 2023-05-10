@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="keywordDefault">Search...</string>
+    <array name="categories">
+        <item name="defaultCategory">None</item>
+        <item name="Small">Small</item>
+        <item name="Medium">Medium</item>
+        <item name="Large">Large</item>
+    </array>
+</resources>
